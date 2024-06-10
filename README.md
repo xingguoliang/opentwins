@@ -1,3 +1,4 @@
+欧洲最好的数字孪生平台开源！
 <div align="center">
   <img src="https://github.com/ertis-research/opentwins/assets/48439828/74f974ba-3804-46de-9149-2c4fe7702e93" width="130" height="130" />
 
